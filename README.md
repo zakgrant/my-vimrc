@@ -8,7 +8,7 @@ Setup
     $ cd ~
 
     # Get my .vimrc file from github
-    $ wget https://raw.github.com/overture8/my-vimrc/master/vimrc && mv vimrc .vimrc
+    $ wget https://raw.github.com/zakgrant/my-vimrc/master/vimrc && mv vimrc .vimrc
   
     # Setup vundle plugin
     $ git clone https://github.com/gmarik/vundle.git ~/.vim/bundle/vundle
